@@ -60,7 +60,7 @@
   <table border="0" cellpadding="10">
     <tr>
 <td align="center">
-  <a href="https://alimohamedwork20.github.io/shop" target="_blank">
+  <a href="https://alimohamedwork20-wq.github.io/shop" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3081/3081840.png" width="100">
     <br><br><b>E-Commerce</b>
   </a>
@@ -70,7 +70,7 @@
   </a>
 </td>
       <td align="center">
-        <a href="https://alimohamedwork20.github.io/products" target="_blank">
+        <a href="https://alimohamedwork20-wq.github.io/products target="_blank">
           <img src="https://cdn-icons-png.flaticon.com/512/869/869636.png" width="100">
           <br><br><b>Product Store</b>
         </a>
@@ -98,7 +98,7 @@
 <!-- قسم البورتفوليو الشخصي (صورة + لينك) -->
 <h2 align="center">🌐 My Portfolio</h2>
 <p align="center">
-  <a href="رابط_بورتفوليو_علي_هنا" target="_blank">
+  <a href="https://alimohamedwork20-wq.github.io/portfolio" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/7991/7991055.png" width="120" alt="Portfolio" style="vertical-align:middle; margin:20px;">
     <br>
     <img src="https://img.shields.io/badge/Visit_My_Live_Portfolio-20232a?style=for-the-badge&logo=google-chrome&logoColor=61dafb" alt="Portfolio Badge">
@@ -122,5 +122,5 @@
 
 <hr>
 <br><br><br>
-<h3 align="center"><a href="https://github.com/alimohamedwork20-wq?tab=repositories">🔍show more🔎</a>/h3>
-<br><br><br><br>
+<h3 align="center"><a href="https://github.com/alimohamedwork20-wq?tab=repositories">🔍show more🔎</a></h3>
+<br><br>
